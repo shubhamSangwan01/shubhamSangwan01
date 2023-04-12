@@ -1,17 +1,3 @@
-<p align="center">
-    <a href="https://github.com/IndraP24/IndraP24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/IndraP24/IndraP24/graphs/contributors"><img src="https://img.shields.io/github/contributors/IndraP24/IndraP24?color=blue"></a>
-    <a href="https://github.com/IndraP24/IndraP24/stargazers"><img src="https://img.shields.io/github/stars/IndraP24/IndraP24.svg?logo=github"></a>
-    <a href="https://github.com/IndraP24/IndraP24/network/members"><img src="https://img.shields.io/github/forks/IndraP24/IndraP24.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=IndraP24.visitor-badge" alt="visitors"/>  
-    
-</p>
-
-<p align="center">
-  <a href="https://github.com/IndraP24?tab=followers"><img src="https://img.shields.io/github/followers/IndraP24.svg?style=social&label=Follow"></a>
-  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open-source"/>
-</p>
 
 <h1 align="center">Hey there 👋 I am Shubham Sangwan  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
