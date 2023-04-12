@@ -20,8 +20,7 @@ __Web Scraping__
 **TechStack:**
 
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+[![Python]]<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="48" />
