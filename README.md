@@ -17,35 +17,17 @@ __CS Undergrad, Vellore Institute of Technology, Bhopal (2020 - 2024)__
 __Web Scraping__
 
 ---
-
-## Tech Stack
-
-- Programming languages:
-  <br/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-
-- Editors and IDEs:
-  <br/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
-
-- Web frameworks:
-  <br/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
-
-- DevOps tools:
-  <br/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img alt="DBVisualizer" src="https://img.shields.io/badge/DBVisualizer-FFCC00?logo=dbvisualizer&logoColor=white&style=flat-square" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" />
-
-- Version control and collaboration:
-  <br/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-
-
+Tech Stack
+Python <img src="https://img.icons8.com/color/48/000000/python.png"/>
+C++ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+Jupyter <img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
+FastAPI <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="48" />
+Docker <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+DBeaver <img src="https://img.icons8.com/color/48/000000/database-restore.png"/>
+Grafana <img src="https://img.icons8.com/color/48/000000/grafana.png"/>
+GitHub <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+Flask <img src="https://img.icons8.com/fluent/48/000000/flask.png"/>
 
 ## **TechStack:**
 
