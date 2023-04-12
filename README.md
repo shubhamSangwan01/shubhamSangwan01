@@ -7,7 +7,7 @@
 
 <h2>About Me</h2>
 
-I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
+As an inquisitive tech and science enthusiast, I'm always eager to explore the latest breakthroughs in the world of AI & ML. I'm also a competitive programming aficionado who loves to tackle complex challenges and sharpen my skills. Lately, I've been dedicating myself to mastering FullStack Machine Learning, with a focus on building robust, end-to-end systems.
 
 
 ## 💻 Currently Learning
