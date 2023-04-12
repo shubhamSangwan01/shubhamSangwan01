@@ -23,3 +23,18 @@ __Web Scraping__
 <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/jupyter.png"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="48" /> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/database-restore.png"/> <img src="https://img.icons8.com/color/48/000000/grafana.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/fluent/48/000000/flask.png"/>
 
 
+Here are some of the technologies I've been working with recently:
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/db-browser.png" alt="DB Browser" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/officel/40/000000/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" height="40" style="vertical-align:top; margin:4px">
+</p>
+Feel free to customize the icons and technologies to match your own tech stack.
