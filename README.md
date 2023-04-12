@@ -1,8 +1,7 @@
 
 <h1 align="center">Hey there 👋 I am Shubham Sangwan  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ML+Developer+)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=MLOps+%26+Fullstack+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ML+Developer+%26+Fullstack+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
