@@ -18,6 +18,35 @@ __Web Scraping__
 
 ---
 
+## Tech Stack
+
+- Programming languages:
+  <br/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+
+- Editors and IDEs:
+  <br/>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
+
+- Web frameworks:
+  <br/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
+
+- DevOps tools:
+  <br/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img alt="DBVisualizer" src="https://img.shields.io/badge/DBVisualizer-FFCC00?logo=dbvisualizer&logoColor=white&style=flat-square" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" />
+
+- Version control and collaboration:
+  <br/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+
+
+
 ## **TechStack:**
 
 
