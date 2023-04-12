@@ -18,9 +18,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ML+Researcher+and+Developer+)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=MLOps+%26+Fullstack+Enthusiast)](https://git.io/typing-svg)
 
-
-[![README Site](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=blue&up_message=IndraP24%20README&url=https%3A%2F%2Findrap24.github.io%2FIndraP24%2F)](https://indrap24.github.io/IndraP24/)
-
 ---
 
 <h2>About Me</h2>
