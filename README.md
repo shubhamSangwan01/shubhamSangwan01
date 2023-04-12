@@ -13,7 +13,7 @@
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open-source"/>
 </p>
 
-<h1 align="center">Hey there 👋 I am  Indrashis Paul  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center">Hey there 👋 I am Shubham Sangwan  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ML+Researcher+and+Developer+)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=MLOps+%26+Fullstack+Enthusiast)](https://git.io/typing-svg)
@@ -27,26 +27,6 @@
 
 I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
 
-## My GitHub Activity
-
-[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IndraP24&custom_title=My%20Activity%20Graph&hide_border=true&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-**Github Streak:**
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=IndraP24&line_height=30&theme=dracula">
-</p>
-
-
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraP24&show_icons=true&line_height=24&theme=dracula&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraP24&count_private=true&line_height=36&theme=dracula&layout=compact&langs_count=8">
-
-</p>
 
 ## 💻 Currently Learning
 
