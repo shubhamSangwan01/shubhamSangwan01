@@ -26,7 +26,7 @@ __Web Scraping__
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
   <img src="dbeaver.png" alt="DBeaver" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40" style="vertical-align:top; margin:4px">
-  <img src="github.jpeg" alt="GitHub" height="40" style="vertical-align:top; margin:4px; background:purple">
+  <img src="github.jpg" alt="GitHub" height="40" style="vertical-align:top; margin:4px; background:purple">
   <img src="flask.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" style="vertical-align:top; margin:4px">
 </p>
