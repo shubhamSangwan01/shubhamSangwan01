@@ -20,14 +20,6 @@ __Web Scraping__
 **TechStack:**
 
 
-[![Python]]<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/jupyter.png"/>
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="48" />
-<img src="https://img.icons8.com/color/48/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/000000/database-restore.png"/>
-<img src="https://img.icons8.com/color/48/000000/grafana.png"/>
-<img src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/flask.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/jupyter.png"/> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="48" /> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/database-restore.png"/> <img src="https://img.icons8.com/color/48/000000/grafana.png"/> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> <img src="https://img.icons8.com/fluent/48/000000/flask.png"/>
 
 
