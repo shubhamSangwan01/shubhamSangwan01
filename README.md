@@ -5,7 +5,7 @@
 
 ---
 
-<h2>About Me</h2>
+<h2> About Me</h2>
 
 As an inquisitive tech and science enthusiast, I'm always eager to explore the latest breakthroughs in the world of AI & ML. I'm also a competitive programming aficionado who loves to tackle complex challenges and sharpen my skills. Lately, I've been dedicating myself to mastering FullStack Machine Learning, with a focus on building robust, end-to-end systems.
 
@@ -34,7 +34,7 @@ __Web Scraping__
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishk7475" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-19bb3611b" height="30" width="40" /></a>
