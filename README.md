@@ -16,6 +16,8 @@ __CS Undergrad, Vellore Institute of Technology, Bhopal (2020 - 2024)__
 
 __Web Scraping__
 
+__DNN__
+
 ---
 **TechStack:**
 <p align="left">
