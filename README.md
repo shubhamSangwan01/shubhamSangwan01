@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there 👋 I am Shubham Sangwan  </h1>
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=ML+Developer+%26+Fullstack+Enthusiast)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=Fullstack+Developer+%26+ML+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
