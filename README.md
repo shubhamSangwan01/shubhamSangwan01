@@ -32,5 +32,5 @@ __CS Undergrad, Vellore Institute of Technology, Bhopal (2020 - 2024)__
 
 <h3 align="left">Connect with me!:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-19bb3611b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-sangwan01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-19bb3611b" height="30" width="40" /></a>
 </p>
