@@ -7,16 +7,10 @@
 
 <h2> About Me</h2>
 
-As an inquisitive tech and science enthusiast, I'm always eager to explore the latest breakthroughs in the world of AI & ML. I'm also a competitive programming aficionado who loves to tackle complex challenges and sharpen my skills. Lately, I've been dedicating myself to mastering FullStack Machine Learning, with a focus on building robust, end-to-end systems.
+As an inquisitive tech and science enthusiast, I'm always eager to explore the latest breakthroughs in the world of AI & ML. I'm also a competitive programming aficionado who loves to tackle complex challenges and sharpen my skills. Lately, I've been dedicating myself to mastering FullStack Machine Learning, focusing on building robust, end-to-end systems.
 
-
-## 💻 Currently Learning
 
 __CS Undergrad, Vellore Institute of Technology, Bhopal (2020 - 2024)__
-
-__Web Scraping__
-
-__DNN__
 
 ---
 **TechStack:**
